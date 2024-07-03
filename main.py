@@ -23,3 +23,4 @@ print(yesterday_cl_price)
 day_b_yesterday_data = list_data[1]
 day_b_yesterday_cl_price = day_b_yesterday_data["4. close"]
 print(day_b_yesterday_cl_price)
+
